@@ -4,6 +4,10 @@ A simple utility to convert color formats
 
 Licensed under MIT license.
 
+## Installation
+
+`go install github.com/mgrubb/colors@latest`
+
 ```
 Usage: colors [-l] <color spec>
   -h	Provide help
